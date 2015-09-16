@@ -10,6 +10,9 @@
 | data_contact_zipcode  | Text   |  10 |   | 
 | data_contact_email  | Text   |  60 |   | 
 | data_contact_phone  | Text   |  30 |   | 
+
+|  Field Name |  Field Type |  Field Length |
+|---|---|---|---|---|---|
 | subfacility_code  | Text   |  3 |   |
 | subfacility_name  | Text   |  60 |   |
 | subfacility_task_code  | Text   |  8 |   |
