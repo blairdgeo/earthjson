@@ -1,11 +1,8 @@
-# Links to Current Specs
+# EPA Region 5
 
-Way too many....
-
-__Links__
-
-EarthJSON is an environmental data interchange format based.
-
-## EPA
-### Region 5 Superfund
+| Table Name  |  Field Name |  Field Type |  Field Length |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
