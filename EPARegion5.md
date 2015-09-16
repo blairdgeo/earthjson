@@ -1,7 +1,7 @@
 # EPA Region 5
 
 |  Field Name |  Field Type |  Field Length | Table |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | data_provider  | Text  | 20  |   | EPAR5DATAPROVIDER_v2 |
 | data_contact_person | Text  | 30  |   | EPAR5DATAPROVIDER_v2 |
 | data_contact_address1  | Text   |  40 |   | EPAR5DATAPROVIDER_v2 |
