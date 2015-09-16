@@ -34,3 +34,23 @@
 | email  | Text   |  100 |   |
 
 ## EPAR5LOC_v2
+
+|  Field Name |  Field Type |  Field Length |
+|---|---|---|---|---|---|
+| data_provider  | Text   |  20 |   |
+| facility_id  | Text   |  20 |   |
+| x_coord  | Numeric   |   |   |
+| y_coord  | Numeric   |   |   |
+| surf_elev  | Numeric   |   |   |
+| coord_sys_desc  | Text   |  20 |   |
+| observation_date  | Date/Time   |   |   |
+| alt_x_coord  | Text   |  20 |   |
+| alt_y_coord  | Text   |  20 |   |
+| coord_type_code  | Text   |  8 |   |
+| identifier  | Text   |  20 |   |
+| phone_number  | Text   |  30 |   |
+| horz_collect_method_code  | Text   |  2 |   |
+| horz_accuracy_value  | Text   |  20 |   |
+| horz_accuracy_unit  | Text   |  1 |   |
+
+NOT DONE
