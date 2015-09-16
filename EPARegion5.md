@@ -32,3 +32,5 @@
 | alt_phone_number  | Text   |  30 |   |
 | fax  | Text   |  30 |   |
 | email  | Text   |  100 |   |
+
+## EPAR5LOC_v2
