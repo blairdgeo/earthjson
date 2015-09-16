@@ -14,3 +14,5 @@
 | subfacility_name  | Text   |  60 |   |
 | subfacility_task_code  | Text   |  8 |   |
 | subfacility_desc1  | Text   |  255 |   |
+| subfacility_desc2  | Text   |  255 |   |
+| contact_name  | Text   |  50 |   |
