@@ -10,3 +10,7 @@
 | data_contact_zipcode  | Text   |  10 |   |
 | data_contact_email  | Text   |  60 |   |
 | data_contact_phone  | Text   |  30 |   |
+| subfacility_code  | Text   |  3 |   |
+| subfacility_name  | Text   |  60 |   |
+| subfacility_task_code  | Text   |  8 |   |
+| subfacility_desc1  | Text   |  255 |   |
