@@ -1,2 +1,2 @@
 # earthjson
-The begining
+The beginning
