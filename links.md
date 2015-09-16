@@ -6,5 +6,6 @@ __Links__
 
 EarthJSON is an environmental data interchange format based.
 
-##EPA
-###Region 5 Superfund
+## EPA
+### Region 5 Superfund
+
