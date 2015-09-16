@@ -8,3 +8,5 @@
 | data_contact_address2  | Text   |  40 |   |
 | data_contact_city  | Text   |  30 |   |
 | data_contact_zipcode  | Text   |  10 |   |
+| data_contact_email  | Text   |  60 |   |
+| data_contact_phone  | Text   |  30 |   |
